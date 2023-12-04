@@ -1,6 +1,8 @@
 # Big Ideas 0010 Final Project
-Group 55
-Team Name: Penguins
+Group 55 <br>
+Team Name: Penguins <br>
+This repository contains an analysis for determining the best Pittsburgh neighborhood to play sports in.
+
 
 # Project Members
 Matthew Lu - MAL554@pitt.edu 
